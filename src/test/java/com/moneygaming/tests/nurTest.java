@@ -8,5 +8,7 @@ public class nurTest {
     public void testNur(){
 
         System.out.println("my beautiful test");
+
+        System.out.println("This is from nur");
     }
 }
